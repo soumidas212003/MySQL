@@ -1,5 +1,5 @@
 create table personal(
-	id int,
+    id int,
     name varchar(50),
     birthdate date,
     phone varchar(12),
